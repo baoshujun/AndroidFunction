@@ -1,0 +1,1 @@
+include ':app', ':dragger2demo', ':rxjava2demo', ':retroficdemo', ':roomdemo', ':strictmode', ':filedownload'
